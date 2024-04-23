@@ -1,7 +1,7 @@
 {
-	"name":"群龙乱舞",
-	"description":"收到 #群龙乱舞 发送一张龙图。",
-	"author":"super1207",
+	"name":"词库系统",
+	"description":"用于快速添加一些简单的自定义回复。",
+	"author":"swyuuki",
 	"version":"0.0.1",
 	"need_python":false
 }
