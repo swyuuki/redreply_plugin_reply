@@ -2,6 +2,6 @@
 	"name":"词库系统",
 	"description":"用于快速添加一些简单的自定义回复。",
 	"author":"swyuuki",
-	"version":"0.0.2",
+	"version":"0.0.3",
 	"need_python":false
 }
